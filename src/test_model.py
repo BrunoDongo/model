@@ -20,7 +20,7 @@ from sklearn.metrics import accuracy_score, classification_report
 
 """# Carga data entrada"""
 
-data_entrada = pd.read_csv("../data/data_raw.csv", sep=",")
+data_entrada = pd.read_csv("../data/data_raw.csv", sep=",", encoding="latin1")
 data_entrada.head(3)
 
 def cargar_modelo():
