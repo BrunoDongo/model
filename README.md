@@ -1,5 +1,11 @@
 # model
-DMC
+Trabajo Final MLE - DMC
+Bruno Dongo Román 
+www.linkedin.com/in/bruno-dongo-roman
+
+
+----------------- 
+
 
 # Credit Project
 ==============================
