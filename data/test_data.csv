@@ -1,0 +1,199 @@
+PD;DeudaTotalSBSMicrof_M3max_rango;Documentos.Impagos_n_1_rango;MAXIMO_DIAS_ATRASO_DDIRECTASBS_M3max_rango;riesgos_al_menos_uno_de_los_solicitantes_vive_en_la_garantia__rango;ocupacion2;Grupo.Distritos;Calificación_1_rango;diasatraso_rango;riesgos_motivo_principal_del_prestamo_rango
+0;a. hasta 10000;a. no tiene;b. mas de 15;a. NO;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;b. 1 hasta 60;c. Compra de deuda
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;d. 61 a más;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;a. 0 a 15;a. NO;a. independiente;grupo 3;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;d. 61 a más;c. Compra de deuda
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;c. arrendamiento;grupo 2;a. Normal;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;b. tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;d. 61 a más;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;b. Capital de trabajo
+1;b. 10001 a más;a. no tiene;b. mas de 15;b. SÍ;a. independiente;grupo 3;a. Normal;c. nuevo;a. Construir o remodelar
+0;a. hasta 10000;a. no tiene;a. 0 a 15;a. NO;a. independiente;grupo 3;a. Normal;d. 61 a más;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 3;a. Normal;c. nuevo;d. Otros motivos personales
+0;b. 10001 a más;b. tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;c. arrendamiento;grupo 2;a. Normal;c. nuevo;a. Construir o remodelar
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;d. 61 a más;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;a. Construir o remodelar
+1;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 1;c. Deficiente/Dudoso/Perdida;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;c. arrendamiento;grupo 2;b. Sin Calificación/CPP;d. 61 a más;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;b. mas de 15;a. NO;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;b. mas de 15;b. SÍ;b. dependiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;c. Compra de deuda
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;d. 61 a más;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;c. arrendamiento;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 1;a. Normal;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;b. mas de 15;b. SÍ;c. arrendamiento;grupo 3;b. Sin Calificación/CPP;b. 1 hasta 60;c. Compra de deuda
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;d. Otros motivos personales
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 2;a. Normal;b. 1 hasta 60;c. Compra de deuda
+0;b. 10001 a más;b. tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;b. 1 hasta 60;c. Compra de deuda
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;c. arrendamiento;grupo 2;a. Normal;c. nuevo;a. Construir o remodelar
+1;b. 10001 a más;a. no tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;a. Construir o remodelar
+0;a. hasta 10000;b. tiene;a. 0 a 15;a. NO;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;a. 0 a 15;a. NO;a. independiente;grupo 3;a. Normal;c. nuevo;c. Compra de deuda
+0;a. hasta 10000;a. no tiene;a. 0 a 15;a. NO;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;b. 1 hasta 60;c. Compra de deuda
+0;b. 10001 a más;a. no tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 1;c. Deficiente/Dudoso/Perdida;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;b. 1 hasta 60;c. Compra de deuda
+0;b. 10001 a más;b. tiene;b. mas de 15;a. NO;b. dependiente;grupo 2;c. Deficiente/Dudoso/Perdida;b. 1 hasta 60;c. Compra de deuda
+1;b. 10001 a más;b. tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;b. mas de 15;b. SÍ;a. independiente;grupo 3;c. Deficiente/Dudoso/Perdida;b. 1 hasta 60;c. Compra de deuda
+0;b. 10001 a más;a. no tiene;b. mas de 15;b. SÍ;b. dependiente;grupo 3;c. Deficiente/Dudoso/Perdida;b. 1 hasta 60;d. Otros motivos personales
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;c. Compra de deuda
+0;a. hasta 10000;a. no tiene;a. 0 a 15;a. NO;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;a. Construir o remodelar
+1;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;a. Construir o remodelar
+1;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;b. mas de 15;a. NO;c. arrendamiento;grupo 3;a. Normal;c. nuevo;c. Compra de deuda
+0;b. 10001 a más;a. no tiene;a. 0 a 15;a. NO;b. dependiente;grupo 3;c. Deficiente/Dudoso/Perdida;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;b. mas de 15;b. SÍ;b. dependiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;d. Otros motivos personales
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 2;a. Normal;b. 1 hasta 60;d. Otros motivos personales
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;b. 1 hasta 60;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;c. Compra de deuda
+0;a. hasta 10000;b. tiene;b. mas de 15;b. SÍ;a. independiente;grupo 1;b. Sin Calificación/CPP;b. 1 hasta 60;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;b. 1 hasta 60;d. Otros motivos personales
+0;b. 10001 a más;a. no tiene;a. 0 a 15;a. NO;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;c. Compra de deuda
+0;a. hasta 10000;a. no tiene;a. 0 a 15;a. NO;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 2;c. Deficiente/Dudoso/Perdida;b. 1 hasta 60;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 1;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;b. 1 hasta 60;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 3;c. Deficiente/Dudoso/Perdida;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;c. Compra de deuda
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 1;c. Deficiente/Dudoso/Perdida;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;d. Otros motivos personales
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;b. 1 hasta 60;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;a. 0 a 15;a. NO;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;c. arrendamiento;grupo 2;a. Normal;b. 1 hasta 60;a. Construir o remodelar
+0;a. hasta 10000;a. no tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;a. Construir o remodelar
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 3;a. Normal;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;c. Compra de deuda
+1;a. hasta 10000;b. tiene;b. mas de 15;a. NO;a. independiente;grupo 1;c. Deficiente/Dudoso/Perdida;c. nuevo;a. Construir o remodelar
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 3;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;b. 1 hasta 60;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;b. mas de 15;b. SÍ;a. independiente;grupo 3;c. Deficiente/Dudoso/Perdida;c. nuevo;c. Compra de deuda
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 3;a. Normal;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;b. mas de 15;b. SÍ;a. independiente;grupo 3;c. Deficiente/Dudoso/Perdida;b. 1 hasta 60;a. Construir o remodelar
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 2;a. Normal;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;c. Compra de deuda
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;b. 1 hasta 60;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 2;a. Normal;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;b. 1 hasta 60;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;b. 1 hasta 60;d. Otros motivos personales
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 3;a. Normal;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;b. mas de 15;b. SÍ;b. dependiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;b. 1 hasta 60;d. Otros motivos personales
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+1;a. hasta 10000;a. no tiene;a. 0 a 15;a. NO;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 1;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;a. Construir o remodelar
+1;b. 10001 a más;a. no tiene;a. 0 a 15;a. NO;a. independiente;grupo 3;a. Normal;c. nuevo;c. Compra de deuda
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 3;a. Normal;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;b. mas de 15;b. SÍ;a. independiente;grupo 3;c. Deficiente/Dudoso/Perdida;c. nuevo;b. Capital de trabajo
+1;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;a. Construir o remodelar
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;a. Construir o remodelar
+0;a. hasta 10000;a. no tiene;a. 0 a 15;a. NO;a. independiente;grupo 3;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+1;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;b. 1 hasta 60;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 3;b. Sin Calificación/CPP;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 2;a. Normal;c. nuevo;c. Compra de deuda
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 2;a. Normal;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;c. arrendamiento;grupo 3;a. Normal;b. 1 hasta 60;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;b. mas de 15;a. NO;b. dependiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+1;a. hasta 10000;a. no tiene;a. 0 a 15;a. NO;a. independiente;grupo 3;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;a. 0 a 15;a. NO;a. independiente;grupo 3;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;b. 1 hasta 60;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 3;b. Sin Calificación/CPP;c. nuevo;d. Otros motivos personales
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;a. 0 a 15;a. NO;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+1;b. 10001 a más;b. tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;a. Construir o remodelar
+1;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 1;a. Normal;c. nuevo;c. Compra de deuda
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+1;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;a. Construir o remodelar
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;b. 1 hasta 60;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;c. Compra de deuda
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;b. 1 hasta 60;b. Capital de trabajo
+1;a. hasta 10000;b. tiene;a. 0 a 15;a. NO;a. independiente;grupo 2;a. Normal;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 2;a. Normal;c. nuevo;a. Construir o remodelar
+1;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;b. 1 hasta 60;c. Compra de deuda
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 2;a. Normal;c. nuevo;a. Construir o remodelar
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;a. Construir o remodelar
+0;a. hasta 10000;a. no tiene;b. mas de 15;b. SÍ;a. independiente;grupo 3;b. Sin Calificación/CPP;c. nuevo;c. Compra de deuda
+0;b. 10001 a más;a. no tiene;a. 0 a 15;a. NO;b. dependiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 3;b. Sin Calificación/CPP;c. nuevo;c. Compra de deuda
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 2;a. Normal;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;a. 0 a 15;a. NO;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;c. arrendamiento;grupo 2;a. Normal;c. nuevo;a. Construir o remodelar
+0;a. hasta 10000;b. tiene;a. 0 a 15;a. NO;b. dependiente;grupo 2;a. Normal;c. nuevo;c. Compra de deuda
+1;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;c. arrendamiento;grupo 2;a. Normal;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 3;c. Deficiente/Dudoso/Perdida;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;a. 0 a 15;a. NO;c. arrendamiento;grupo 2;a. Normal;b. 1 hasta 60;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;c. Compra de deuda
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 3;a. Normal;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;c. arrendamiento;grupo 2;a. Normal;b. 1 hasta 60;a. Construir o remodelar
+1;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;a. Construir o remodelar
+1;b. 10001 a más;a. no tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;a. Construir o remodelar
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 3;a. Normal;b. 1 hasta 60;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 2;a. Normal;b. 1 hasta 60;a. Construir o remodelar
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 3;a. Normal;a. 0;b. Capital de trabajo
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;a. Construir o remodelar
+0;a. hasta 10000;a. no tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;b. mas de 15;b. SÍ;a. independiente;grupo 3;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;b. mas de 15;a. NO;c. arrendamiento;grupo 2;a. Normal;c. nuevo;d. Otros motivos personales
+0;b. 10001 a más;a. no tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;a. Construir o remodelar
+0;a. hasta 10000;b. tiene;a. 0 a 15;a. NO;b. dependiente;grupo 2;a. Normal;c. nuevo;a. Construir o remodelar
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;a. Construir o remodelar
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 2;a. Normal;a. 0;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;a. 0 a 15;a. NO;c. arrendamiento;grupo 2;a. Normal;a. 0;c. Compra de deuda
+1;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 1;a. Normal;c. nuevo;b. Capital de trabajo
+1;b. 10001 a más;a. no tiene;a. 0 a 15;a. NO;c. arrendamiento;grupo 2;a. Normal;c. nuevo;d. Otros motivos personales
+1;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 3;a. Normal;c. nuevo;b. Capital de trabajo
+1;a. hasta 10000;b. tiene;b. mas de 15;b. SÍ;b. dependiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;c. Compra de deuda
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;a. 0;c. Compra de deuda
+0;b. 10001 a más;b. tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 3;a. Normal;c. nuevo;a. Construir o remodelar
+0;a. hasta 10000;a. no tiene;b. mas de 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 2;a. Normal;a. 0;c. Compra de deuda
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 2;b. Sin Calificación/CPP;a. 0;c. Compra de deuda
+0;a. hasta 10000;a. no tiene;a. 0 a 15;a. NO;a. independiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;b. dependiente;grupo 2;a. Normal;c. nuevo;c. Compra de deuda
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;c. nuevo;a. Construir o remodelar
+0;b. 10001 a más;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;a. Normal;a. 0;c. Compra de deuda
+0;b. 10001 a más;a. no tiene;b. mas de 15;b. SÍ;b. dependiente;grupo 2;b. Sin Calificación/CPP;c. nuevo;b. Capital de trabajo
+0;a. hasta 10000;a. no tiene;a. 0 a 15;b. SÍ;a. independiente;grupo 2;c. Deficiente/Dudoso/Perdida;c. nuevo;b. Capital de trabajo
+1;b. 10001 a más;a. no tiene;b. mas de 15;b. SÍ;a. independiente;grupo 3;c. Deficiente/Dudoso/Perdida;c. nuevo;c. Compra de deuda
+0;b. 10001 a más;b. tiene;a. 0 a 15;a. NO;a. independiente;grupo 3;a. Normal;c. nuevo;a. Construir o remodelar
+0;a. hasta 10000;b. tiene;a. 0 a 15;b. SÍ;c. arrendamiento;grupo 2;b. Sin Calificación/CPP;c. nuevo;a. Construir o remodelar
