@@ -49,12 +49,13 @@ Project Organization
 
 # Para validar 
 ==============================
-git config --global user.name "BrunoDongo"
-git config --global user.email bruno.dongo@unmsm.edu.pe
-git clone https://github.com/BrunoDongo/trabajo_final_MLE.git
-
-cd trabajo_final_MLE/ 
-cd src/ 
-python test_model.py 
+------------
+    git config --global user.name "BrunoDongo"
+    git config --global user.email bruno.dongo@unmsm.edu.pe
+    git clone https://github.com/BrunoDongo/trabajo_final_MLE.git
+    
+    cd trabajo_final_MLE/ 
+    cd src/ 
+    python test_model.py 
 
 # La data se guarda en data/processed/ 
