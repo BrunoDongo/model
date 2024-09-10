@@ -20,7 +20,7 @@ from sklearn.metrics import accuracy_score, classification_report
 
 """# Carga data entrada"""
 
-data_entrada = pd.read_csv("../data/data_raw.csv", sep=",", encoding="latin1")
+data_entrada = pd.read_csv("../data/data_raw.csv", sep=";", encoding="latin1")
 data_entrada.head(3)
 
 def cargar_modelo():
@@ -273,4 +273,4 @@ data_salida
 # df_distribucion['%'] = np.round(df_distribucion['calificacion_grupo']/len(df_distribucion), 1)
 # df_distribucion
 
-data_salida.to_csv("../data/processed/data_scored.csv", sep=",")
+data_salida.to_csv("../data/processed/data_scored.csv", sep=";")
